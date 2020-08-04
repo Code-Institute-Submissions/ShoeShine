@@ -40,3 +40,36 @@ nav {
     margin-right: 10px;
     border: 1px;
 }
+
+/*------Top Section------*/
+
+.top_wrapper {
+    background-color: #1F4068;
+}
+
+.text_icon_style {
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+    letter-spacing: 2px;
+}
+
+.top_button {
+    background-color: #206A5D;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 25px;
+    border-radius: 5%;
+}
+
+.text_icon_margin {
+    margin-left: 5px;
+}
+
+
+.button_wrapper {
+    text-align: center;
+    margin-top: 50px;
+}
