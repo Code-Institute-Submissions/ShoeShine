@@ -80,3 +80,29 @@ nav {
     text-align: center;
     margin: 20px 0px;
 }
+
+/*------Section 2 ------*/
+
+.about_margin {
+    margin-top: 50px;
+}
+
+.h2_styling {
+    color: #206A5D;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 40px;
+}
+
+.our_mission_text {
+    font-family: 'Krona One', sans-serif;
+    color: #1F4068;
+    font-size: 25px;
+}
+
+.about_text {
+    font-family: 'Lato', sans-serif;
+    color: #1F4068;
+    font-weight: 600;
+    font-size: 20px;
+}
