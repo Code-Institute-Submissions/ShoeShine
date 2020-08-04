@@ -130,3 +130,21 @@ nav {
     color: #1F4068;
 }
 
+/*------footer wrapper ------*/
+
+.footer_wrapper {
+    background-color: #1F4068;
+}
+
+.copy_styling {
+    font-size: 15px;
+    font-family: 'Krona One';
+    color: white;
+    margin-top: 20px;
+}
+
+.social_icon {
+    margin: 10px 0;
+    font-size: 40px;
+    color: white;
+}
