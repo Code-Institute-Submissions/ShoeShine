@@ -83,7 +83,7 @@ nav {
 
 /*------Section 2 ------*/
 
-.about_margin {
+.about_wrapper {
     margin-top: 50px;
 }
 
@@ -106,3 +106,27 @@ nav {
     font-weight: 600;
     font-size: 20px;
 }
+
+/*------testimonals------*/
+
+.testimonals_wrapper {
+    margin-top: 50px;
+}
+
+.testimonals_icon {
+    font-size: 90px;
+    color: #1F4068;
+}
+
+.testimonals_name {
+    font-size: 30px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+}
+
+.testimonals_text {
+    font-family: 'Lato', sans-serif;
+    font-size: 25px;
+    color: #1F4068;
+}
+
