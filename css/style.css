@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Lato:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Pacifico&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+/*------NAV-----*/
+
+nav {
+    background-color: #EBECF1;
+}
+
+.nav_logo {
+    color: #206A5D;
+    font-family: 'Krona One', sans-serif;
+    font-size: 40px;
+}
+
+.nav_logo:hover {
+    color: #206A5D;
+}
+
+.nav_link_style {
+    color: #1F4068;
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+    margin-right: 30px;
+}
+
+.nav_contact_style {
+    color: #206A5D;
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+    margin-right: 10px;
+    border: 1px;
+}
