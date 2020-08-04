@@ -90,8 +90,10 @@ nav {
 .h2_styling {
     color: #206A5D;
     font-family: 'Lato', sans-serif;
-    font-weight: 400;
+    font-weight: 500;
     font-size: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 .our_mission_text {
