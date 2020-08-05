@@ -196,3 +196,23 @@ nav {
 .social_icon:hover {
     color: #206A5D;
 }
+
+/*------FAQ------*/
+
+.faq_border {
+    border-width: 4px;
+    border-style: ridge;
+    border-color: #206A5D;
+}
+
+.faq_header {
+    font-family: 'Krona One', sans-serif;
+    color: #1F4068;
+    font-size: 25px;
+}
+
+.faq_text {
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    color: #1F4068;
+}
