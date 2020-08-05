@@ -215,3 +215,9 @@ nav {
     color: #1F4068;
     font-weight: 600;
 }
+
+/*------GALLERY------*/
+
+.gallery_img {
+    height: 60%;
+}
