@@ -177,29 +177,6 @@ nav {
     color: #1F4068;
 }
 
-/*------footer wrapper ------*/
-
-.footer_wrapper {
-    background-color: #1F4068;
-}
-
-.copy_styling {
-    font-size: 15px;
-    font-family: 'Krona One';
-    color: white;
-    margin-top: 20px;
-}
-
-.social_icon {
-    margin: 10px 0;
-    font-size: 40px;
-    color: white;
-    transition: color 0.3s ease;
-}
-.social_icon:hover {
-    color: #206A5D;
-}
-
 /*------FAQ------*/
 
 .faq_header {
@@ -250,3 +227,27 @@ nav {
 .submit_btn:hover {
     background-color: #206A5D;
 }
+
+/*------footer wrapper ------*/
+
+.footer_wrapper {
+    background-color: #1F4068;
+}
+
+.copy_styling {
+    font-size: 15px;
+    font-family: 'Krona One';
+    color: white;
+    margin-top: 20px;
+}
+
+.social_icon {
+    margin: 10px 0;
+    font-size: 40px;
+    color: white;
+    transition: color 0.3s ease;
+}
+.social_icon:hover {
+    color: #206A5D;
+}
+
