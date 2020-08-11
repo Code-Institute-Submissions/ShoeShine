@@ -226,6 +226,7 @@ nav {
 
 .submit_btn:hover {
     background-color: #206A5D;
+    color: white; 
 }
 
 /*------footer wrapper ------*/
@@ -250,4 +251,5 @@ nav {
 .social_icon:hover {
     color: #206A5D;
 }
+
 
