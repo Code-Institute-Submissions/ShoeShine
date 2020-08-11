@@ -44,6 +44,11 @@ nav {
     margin-right: 30px;
 }
 
+.nav_link_style:hover {
+    color: #206A5D;
+    font-size: 27px;
+}
+
 .nav_contact_style {
     color: #206A5D;
     font-family: 'Lato', sans-serif;
