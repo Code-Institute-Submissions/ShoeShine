@@ -32,6 +32,7 @@ Testimonals Button - allows users to go to the testimonal section directly on a 
 
 ## Technologies Used
 
-* HTML 
-* CSS
-* Frameworks
+- HTML 
+- CSS
+- Frameworks
+  - The project used Bootstrap for responsive design.
