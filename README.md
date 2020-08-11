@@ -27,3 +27,11 @@ As a user, i want to know tje process of how to shoes are cleaned from start to 
 
 Packages Button - allows users to compare packages to decide what package is best for them.
 Testimonals Button - allows users to go to the testimonal section directly on a different page, which will let users see previous users experience.
+
+#### Features Left to Implement
+
+## Technologies Used
+
+* HTML 
+* CSS
+* Frameworks
