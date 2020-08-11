@@ -21,3 +21,9 @@ As a user, i want to be able to see the different packages, so i can compare.
 As a user, i want to know what my shoes are cleaned with, so i know they are not harmful.
 As a user, i want to know tje process of how to shoes are cleaned from start to finish, so i can see if its right for me.
 
+## Features
+
+#### Existing Features
+
+Packages Button - allows users to compare packages to decide what package is best for them.
+Testimonals Button - allows users to go to the testimonal section directly on a different page, which will let users see previous users experience.
