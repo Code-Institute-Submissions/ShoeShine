@@ -45,3 +45,7 @@ Testimonals Button - allows users to go to the testimonal section directly on a 
 
 
 ## Credits
+
+#### Media
+
+* The photos used in this site were obtained from https://en-gb.facebook.com/pg/myshoemo/photos/?tab=album&album_id=912590665539042&ref=page_internal
