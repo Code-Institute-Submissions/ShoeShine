@@ -261,4 +261,10 @@ nav {
     color: #206A5D;
 }
 
+/*------GALLERY-------*/
 
+.gallery_slogan {
+    color: #1F4068;
+    font-family: 'Lato', sans-serif;
+    padding: 20px;
+}
