@@ -27,8 +27,9 @@ that is gone through to get there shoes clean. The website is designed to be sle
 
 #### Existing Features
 
-Packages Button - allows users to compare packages to decide what package is best for them.
-Testimonals Button - allows users to go to the testimonal section directly on a different page, which will let users see previous users experience.
+- Packages Button - allows users to compare packages to decide what package is best for them.
+- Testimonals Button - allows users to go to the testimonal section directly on a different page, which will let users see previous users experience.
+- Contact Form allows users to put there information about them and there shoes, to understand what they need from the service.
 
 #### Features Left to Implement
 
