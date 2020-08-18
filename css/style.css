@@ -205,6 +205,10 @@ nav {
     font-size: 25px;
 }
 
+.card_margin {
+    margin-bottom: 10px;
+}
+
 /*------Contact------*/
 
 .contact_header {
