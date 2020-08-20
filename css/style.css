@@ -147,9 +147,8 @@ nav {
     margin-top: 50px;
 }
 
-.testimonals_icon {
-    font-size: 90px;
-    color: #1F4068;
+.testimonal_image {
+    width: 50%;
 }
 
 .testimonals_name {
