@@ -117,6 +117,27 @@ nav {
     font-size: 20px;
 }
 
+/*-----Section 3 -----*/
+.packages_container {
+    margin-top: 40px;
+}
+
+.packages_header {
+    color: #206A5D;
+    font-family: 'Lato', sans-serif;
+    font-size: 40px;
+}
+
+.premium_color  {
+    color: darkgoldenrod;
+}
+
+.package_text {
+    color: #1F4068;
+    font-size: 25px;
+    font-family: 'Lato', sans-serif;
+}
+
 /*------testimonals------*/
 
 .testimonals_wrapper {
