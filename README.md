@@ -1,6 +1,6 @@
 # ShoeShine
 
-ShoeShine is aimed at getting the dirtiest of shoes clean. 
+My website is "Shoe Shine". Shoe Shine is for users who need there shoes cleaned. They are able to send their favourite and well loved shoes in for a basic or premium clean, to show this there is a comparison of what the different packages include. Also incorporated in the site is a gallery, frequently asked questions and contact page. 
  
 ## UX
  
