@@ -186,8 +186,8 @@ nav {
 
 /*------GALLERY------*/
 
-#margin_button_top {
-    margin-top: 20px;
+.gallery_button_margin {
+    margin: 20px 0;
 }
 
 .card_title {
