@@ -23,6 +23,14 @@ body {
     padding-bottom: 20px;
 }
 
+.h4_styling {
+    color: #206A5D;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 40px;
+    padding: 10px;
+}
+
 /*------NAV-----*/
 
 nav {
@@ -198,6 +206,12 @@ nav {
 
 .card_margin {
     margin-bottom: 10px;
+}
+
+.gallery_text_styling {
+    font-family: 'Lato', sans-serif;
+    font-style: italic;
+    size: 20px;
 }
 
 /*------Contact------*/
