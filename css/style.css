@@ -109,7 +109,7 @@ nav {
     margin: 20px 0px;
 }
 
-/*------Section 2 ------*/
+/*------About Section------*/
 
 .about_wrapper {
     margin-top: 50px;
@@ -132,7 +132,7 @@ nav {
     font-size: 20px;
 }
 
-/*-----Section 3 -----*/
+/*-----Packages Section-----*/
 .packages_container {
     margin-top: 40px;
 }
@@ -153,7 +153,7 @@ nav {
     font-family: 'Lato', sans-serif;
 }
 
-/*------testimonals------*/
+/*------testimonals Section------*/
 
 .testimonals_wrapper {
     margin-top: 50px;
@@ -196,7 +196,7 @@ nav {
     margin-bottom: 40px;
 }
 
-/*------GALLERY------*/
+/*------Gallery------*/
 
 .gallery_button_margin {
     margin: 20px 0;
@@ -253,7 +253,7 @@ nav {
     color: #1F4068;
 }
 
-/*------footer wrapper ------*/
+/*------Footer------*/
 
 .footer_wrapper {
     background-color: #1F4068;
@@ -278,8 +278,4 @@ nav {
 
 /*------GALLERY-------*/
 
-.gallery_slogan {
-    color: #1F4068;
-    font-family: 'Lato', sans-serif;
-    padding: 20px;
-}
+
