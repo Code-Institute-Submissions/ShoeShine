@@ -249,8 +249,8 @@ nav {
     color: white; 
 }
 
-.form-check {
-    color: #1F4068;
+.form-input {
+    height: 40px;
 }
 
 /*------Footer------*/
@@ -275,7 +275,3 @@ nav {
 .social_icon:hover {
     color: #206A5D;
 }
-
-/*------GALLERY-------*/
-
-
