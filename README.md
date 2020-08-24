@@ -1,6 +1,6 @@
 # ShoeShine
 
-My website is "Shoe Shine". Shoe Shine is for users who need there shoes cleaned. They are able to send their favourite and well loved shoes in for a basic or premium clean, to show this there is a comparison of what the different packages include. Also incorporated in the site is a gallery, frequently asked questions and contact page. 
+This website is "Shoe Shine". Shoe Shine is for users who need there shoes cleaned. They are able to send their favourite and well loved shoes in for a basic or premium clean, to show this there is a comparison of what the different packages include. Also incorporated in the site is a gallery, frequently asked questions and contact page. 
  
 ## UX
  
@@ -33,6 +33,8 @@ that is gone through to get there shoes clean. The website is designed to be sle
 
 #### Features Left to Implement
 
+A future feature i would like to implement would be some videos, showing the cleaning process. 
+
 ## Technologies Used
 
 - HTML 
@@ -51,4 +53,4 @@ that is gone through to get there shoes clean. The website is designed to be sle
 
 #### Media
 
-* The photos used in the Gallery were obtained from https://en-gb.facebook.com/pg/myshoemo/photos/?tab=album&album_id=912590665539042&ref=page_internal
+* The photos used in the Gallery were obtained from two sites: https://en-gb.facebook.com/pg/myshoemo/photos/?tab=album&album_id=912590665539042&ref=page_internal and https://www.pexels.com/
