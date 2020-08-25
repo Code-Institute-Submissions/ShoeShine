@@ -53,9 +53,15 @@ A future feature i would like to implement would be some videos, showing the cle
 
 #### Validator Test
 
-**Index.html** - Two errors which were unclosed div's. To correct this i closed the div's and put it back through the validator which then came back with no erros.
+**Index.html**
+2 errors - 2 unclosed div's
+**fix**
+ To correct this i closed the div's and put it back through the validator which then came back with no erros.
 
-**gallery.html**
+**gallery.html** 
+2 errors - a element must not appear as a decendant of the button element / Named character reference was not terminated by a semicolon. (Or & should have been escaped as & amp;.)
+**Fix** 
+Removed the button and just used the link element | Added a semi-colon after &copy 
 
 **faq.html**
 
