@@ -51,9 +51,9 @@ A future feature i would like to implement would be some videos, showing the cle
    3. Entered an invalid email to check the relevant error message appears.
    4. Entered all inputs to check the form submits successfully
 
-###### **Validator Test**
+#### Validator Test
 
-**Index.html** - Two errors which were unclosed div's. To correct this i closed the div's and put i back through the validator which then came back with no erros.* 
+**Index.html** - Two errors which were unclosed div's. To correct this i closed the div's and put it back through the validator which then came back with no erros.
 
 **gallery.html**
 
