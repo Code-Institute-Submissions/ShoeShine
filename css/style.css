@@ -87,23 +87,6 @@ nav {
     margin-left: 5px;
 }
 
-.top_button {
-    background-color: #206A5D;
-    color: white;
-    font-family: 'Lato', sans-serif;
-    font-weight: 400;
-    font-size: 25px;
-    border-radius: 5%;
-    border-width: 4px;
-    border-color: #206A5D;
-    padding: 4px;
-    transition: color 0.3s ease;
-}
-
-.top_button:hover {
-    color: #1F4068;
-}
-
 .button_wrapper {
     text-align: center;
     margin: 20px 0px;
@@ -216,6 +199,23 @@ nav {
     font-family: 'Lato', sans-serif;
     font-style: italic;
     size: 20px;
+}
+
+.gallery_button {
+    background-color: #206A5D;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 25px;
+    border-radius: 5%;
+    border-width: 4px;
+    border-color: #206A5D;
+    padding: 4px;
+    transition: color 0.3s ease;
+}
+
+.gallery_button:hover {
+    color: #1F4068;
 }
 
 /*------Contact------*/
