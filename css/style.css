@@ -68,7 +68,7 @@ nav {
     margin-right: 10px;
     border: 1px;
 }
-
+/*------Index.html------*/
 /*------Top Section------*/
 
 .top_wrapper {
@@ -136,7 +136,7 @@ nav {
     font-family: 'Lato', sans-serif;
 }
 
-/*------testimonals Section------*/
+/*------Testimonals Section------*/
 
 .testimonals_wrapper {
     margin-top: 50px;
@@ -159,7 +159,7 @@ nav {
     color: #1F4068;
 }
 
-/*------FAQ------*/
+/*------faq.html------*/
 
 .faq_header {
     font-family: 'Krona One', sans-serif;
@@ -179,7 +179,7 @@ nav {
     margin-bottom: 40px;
 }
 
-/*------Gallery------*/
+/*------gallery.html------*/
 
 .gallery_button_margin {
     margin: 20px 0;
@@ -217,7 +217,7 @@ nav {
     color: #1F4068;
 }
 
-/*------Contact------*/
+/*------contact.html------*/
 
 
 .contact_header {
