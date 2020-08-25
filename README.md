@@ -51,7 +51,9 @@ A future feature i would like to implement would be some videos, showing the cle
   - Entered an invalid email to check the relevant error message appears.
   - Entered all inputs to check the form submits successfully
 
-To further test, i passed my code through each validator to check for any errors.
+To further test, i passed my code through each validator to check for any errors
+
+Index.html 
 
 ## Deployment
 
