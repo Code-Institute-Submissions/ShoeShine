@@ -48,6 +48,7 @@ A future feature i would like to implement would be some videos, showing the cle
 
 ## Deployment
 
+The site is hosted on GitHub pages.
 
 ## Credits
 
