@@ -45,6 +45,13 @@ A future feature i would like to implement would be some videos, showing the cle
 
 ## Testing
 
+1. Testing the "Contact Us" page
+  - Clicked on the "Contact Us" page
+  - Clicked on the submit button with an empty form, to see that the required fields appears
+  - Entered an invalid email to check the relevant error message appears.
+  - Entered all inputs to check the form submits successfully
+
+To further test, i passed my code through each validator to check for any errors.
 
 ## Deployment
 
