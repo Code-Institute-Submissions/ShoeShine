@@ -45,15 +45,23 @@ A future feature i would like to implement would be some videos, showing the cle
 
 ## Testing
 
-1. Testing the "Contact Us" page
-  - Clicked on the "Contact Us" page
-  - Clicked on the submit button with an empty form, to see that the required fields appears
-  - Entered an invalid email to check the relevant error message appears.
-  - Entered all inputs to check the form submits successfully
+- Testing the "Contact Us" page
+   1. Clicked on the "Contact Us" page
+   2. Clicked on the submit button with an empty form, to see that the required fields appears
+   3. Entered an invalid email to check the relevant error message appears.
+   4. Entered all inputs to check the form submits successfully
 
-To further test, i passed my code through each validator to check for any errors
+###### **Validator Test**
 
-Index.html 
+**Index.html** - Two errors which were unclosed div's. To correct this i closed the div's and put i back through the validator which then came back with no erros.* 
+
+**gallery.html**
+
+**faq.html**
+
+**contact.html**
+
+**style.css**
 
 ## Deployment
 
