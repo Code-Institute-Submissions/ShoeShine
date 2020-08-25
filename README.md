@@ -60,14 +60,23 @@ A future feature i would like to implement would be some videos, showing the cle
 
 **gallery.html** 
 2 errors - a element must not appear as a decendant of the button element / Named character reference was not terminated by a semicolon. (Or & should have been escaped as & amp;.)
-**Fix** 
+**fix** 
 Removed the button and just used the link element | Added a semi-colon after &copy 
 
 **faq.html**
+2 errors - Stray end tag i / Named character reference was not terminated by a semicolon. (Or & should have been escaped as & amp;.)
+**fix**
+removed stray i tag | Added a semi-colon after &copy
 
 **contact.html**
+5 errors -  End tag nav seen, but there were open elements | Unclosed element div | Named character reference was not terminated by a semicolon. (Or & should have been escaped as & amp;.) | x2 The aria-describedby attribute must point to an element in the same document
+**fix**
+To fix error 1/2 i had to close the div element | Added a semi-colon after &copy | Changed aria-describedby to aria-label
 
 **style.css**
+1 error - .gallery_text_styling	Property size doesn't exist. The closest matching property name is resize : 20px
+**fix**
+Changed the size property to font-size
 
 ## Deployment
 
