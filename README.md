@@ -4,9 +4,7 @@ This website is "Shoe Shine". Shoe Shine is for users who need there shoes clean
  
 ## UX
  
-This website is for anyone who has dirty shoes but does not have the time nor skill set to bring make their shoes clean and tidy. My project
-is the best way for them to acheive this because it tells the customer what they will recieve at the end, but also telling them the full process
-that is gone through to get there shoes clean. The website is designed to be sleek, but also informational so the consumer can get what they want.  
+  The website is designed to be sleek, but also informational so the consumer can complete achieve what they need. 
 
 #### Owner Stories
 
@@ -27,9 +25,10 @@ that is gone through to get there shoes clean. The website is designed to be sle
 
 #### Existing Features
 
-- Packages Button - allows users to compare packages to decide what package is best for them.
-- Testimonals Button - allows users to go to the testimonal section directly on a different page, which will let users see previous users experience.
-- Contact Form allows users to put there information about them and there shoes, to understand what they need from the service.
+- Designed with HTML5, CSS3 and Bootstrap.
+- Packages Section - allows users to compare packages to decide what package is best for them.
+- Testimonals Section - allows users to go to the testimonal section directly on a different page, which will let users see previous users experience.
+- Contact Form - allows users to put there information about them and there shoes, to understand what they need from the service.
 
 #### Features Left to Implement
 
@@ -42,6 +41,10 @@ A future feature i would like to implement would be some videos, showing the cle
 - Frameworks
   - The project used Bootstrap for responsive design.
 - FontAwesome
+- Google Fonts
+- Git
+- GitHub
+- Visual Studio Code
 
 ## Testing
 
@@ -50,6 +53,7 @@ A future feature i would like to implement would be some videos, showing the cle
    2. Clicked on the submit button with an empty form, to see that the required fields appears
    3. Entered an invalid email to check the relevant error message appears.
    4. Entered all inputs to check the form submits successfully
+
 
 #### Validator Test
 
@@ -80,7 +84,7 @@ Changed the size property to font-size
 
 ## Deployment
 
-The site is hosted on GitHub pages.
+This site was deployed on GitHub Pages.
 
 ## Credits
 
