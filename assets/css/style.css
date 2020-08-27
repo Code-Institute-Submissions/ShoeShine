@@ -181,7 +181,7 @@ nav {
 
 /*------gallery.html------*/
 
-.gallery_button_margin {
+#gallery_contact_link_margin {
     margin: 20px 0;
 }
 
@@ -201,7 +201,7 @@ nav {
     font-size: 20px;
 }
 
-.gallery_button {
+.gallery_contact_link {
     background-color: #206A5D;
     color: white;
     font-family: 'Lato', sans-serif;
@@ -211,6 +211,7 @@ nav {
     border-color: #206A5D;
     padding: 4px;
     transition: color 0.3s ease;
+    border-radius: 5px;
 }
 
 .gallery_button:hover {
