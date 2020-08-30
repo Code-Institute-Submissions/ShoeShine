@@ -254,6 +254,10 @@ nav {
     height: 40px;
 }
 
+.contact_bottom_wrapper {
+    margin-bottom: 20px;
+}
+
 /*------Footer------*/
 
 .footer_wrapper {
