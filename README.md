@@ -21,6 +21,10 @@ This website is "Shoe Shine". Shoe Shine is for users who need their shoes clean
 - As a user, i want to find out the opening hours.
 - As a user, i want to find out the location.
 
+#### Wireframes
+
+https://github.com/JackTubby/ShoeShine/blob/master/assets/docs/ShoeShine%20Wireframe.pdf
+
 ## Features
 
 #### Existing Features
