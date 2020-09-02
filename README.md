@@ -4,13 +4,13 @@ This website is "Shoe Shine". Shoe Shine is for users who need their shoes clean
  
 ## UX
  
-The projects aim is to give the user all the information need about ShoeShine, so they can decide if it is what they need.
+The projects aim is to give the user all the information needed about ShoeShine, so they can decide if it is what they need.
 
 #### Project Goals 
 
-- Tell the user all useful information about the company
-- Show the user examples (before and after)
-- Get the user to fill out the form
+- Tell the user all useful information about the company.
+- Show the user examples (before and after).
+- Get the user to fill out the contact form.
 
 #### Owner Stories
 
@@ -23,7 +23,6 @@ The projects aim is to give the user all the information need about ShoeShine, s
 - As a user, i want to know the origins of the company, to understand there background.
 - As a user, i want to be able to see the different packages, so i can compare.
 - As a user, i want to know what my shoes are cleaned with, so i know they are not harmful.
-- As a user, i want to know the process of how to shoes are cleaned from start to finish, so i can see if its right for me.
 - As a user, i want to find out the opening hours.
 - As a user, i want to find out the location.
 
@@ -42,7 +41,7 @@ The projects aim is to give the user all the information need about ShoeShine, s
 
 #### Wireframes
 
-https://github.com/JackTubby/ShoeShine/blob/master/assets/docs/ShoeShine%20Wireframe.pdf
+[WireFrames] (https://github.com/JackTubby/ShoeShine/blob/master/assets/docs/ShoeShine%20Wireframe.pdf)
 
 ## Features
 
