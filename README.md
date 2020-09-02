@@ -4,7 +4,13 @@ This website is "Shoe Shine". Shoe Shine is for users who need their shoes clean
  
 ## UX
  
-  The website is designed to be sleek, but also informational so the consumer can complete achieve what they need. 
+The projects aim is to give the user all the information need about ShoeShine, so they can decide if it is what they need.
+
+#### Project Goals 
+
+- Tell the user all useful information about the company
+- Show the user examples (before and after)
+- Get the user to fill out the form
 
 #### Owner Stories
 
