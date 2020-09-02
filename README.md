@@ -8,8 +8,8 @@ The projects aim is to give the user all the information needed about ShoeShine,
 
 #### Project Goals 
 
-- Tell the user all useful information about the company.
-- Show the user examples (before and after).
+- Tell the user all useful information about the company, so they understand where ShoeShine cam from.
+- Show the user examples (before and after), so they can see the results of the cleaning process.
 - Get the user to fill out the contact form.
 
 #### Owner Stories
@@ -31,12 +31,12 @@ The projects aim is to give the user all the information needed about ShoeShine,
 ###### colors
 
 - I have decided to use two main colors throughout the website (#1F4068, #206A5D). I have chosen these colors because they match together well, it is easy on the eye, and shows the typography well. For the background i have chosen a grey (#EBECF1) color which makes the main two colors stand out well.
-- The text on the website is the two main colors (#1F4068, #206A5D) when on the grey (#EBECF1) background. Text on the two main colors background is going to be white.
+- The text on the website is the two main colors (#1F4068, #206A5D) when on the grey (#EBECF1) background. Text on the two main colors background is going to be white, as it stands out and is catching on the eye.
 
 
 ###### Typography 
-- I have used 'Lato'for the main text throughout the website and also the navbar.
-- I have used 'Krona One' For the main Logo, and some headings including the faq questions.
+- I have used 'Lato'for the main text throughout the website and also the navbar, i have gone with this font as it is clean, sleek and easy to read.
+- I have used 'Krona One' For the main Logo, and some headings including the faq questions, i have chosen this font as it stands out well and catches the users eye.
 
 
 #### Wireframes
