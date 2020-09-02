@@ -41,6 +41,8 @@ The projects aim is to give the user all the information needed about ShoeShine,
 
 #### Wireframes
 
+My wireframe includes a desktop and mobile version. I did not choose to include a ipad version as it looks the same as the desktop.
+
 [WireFrames](https://github.com/JackTubby/ShoeShine/blob/master/assets/docs/ShoeShine%20Wireframe.pdf)
 
 ## Features
