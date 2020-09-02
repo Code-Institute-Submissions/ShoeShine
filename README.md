@@ -88,7 +88,7 @@ A future feature i would like to implement would be some videos, showing the cle
   2. Made sure they opened the correct website in a new tab.
 
 
-### Validator Test
+### Validator Tests
 
 After putting my code through the validator i got a list of errors, (list of errors and fixes below) after going through the errors and fixing them i placed my code back through the validator. The validator returned with "Document checking completed. No errors or warnings to show." The reason i used the W3C validator is for quality assurance.
 
