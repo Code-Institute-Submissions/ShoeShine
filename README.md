@@ -89,6 +89,9 @@ A future feature i would like to implement would be some videos, showing the cle
 
 #### Validator Test
 
+- I used the [W3C](https://validator.w3.org/) for html validation.
+- I used [W3C](https://jigsaw.w3.org/css-validator/) for css validation.
+
 ##### Index.html
 
 **2 errors** - 2 unclosed div's
