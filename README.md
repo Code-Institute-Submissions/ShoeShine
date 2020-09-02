@@ -27,6 +27,19 @@ The projects aim is to give the user all the information need about ShoeShine, s
 - As a user, i want to find out the opening hours.
 - As a user, i want to find out the location.
 
+#### Surface 
+
+###### colors
+
+- I have decided to use two main colors throughout the website (#1F4068, #206A5D). I have chosen these colors because they match together well, it is easy on the eye, and shows the typography well. For the background i have chosen a grey (#EBECF1) color which makes the main two colors stand out well.
+- The text on the website is the two main colors (#1F4068, #206A5D) when on the grey (#EBECF1) background. Text on the two main colors background is going to be white.
+
+
+###### Typography 
+- I have used 'Lato'for the main text throughout the website and also the navbar.
+- I have used 'Krona One' For the main Logo, and some headings including the faq questions.
+
+
 #### Wireframes
 
 https://github.com/JackTubby/ShoeShine/blob/master/assets/docs/ShoeShine%20Wireframe.pdf
