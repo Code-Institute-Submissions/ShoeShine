@@ -41,7 +41,7 @@ The projects aim is to give the user all the information needed about ShoeShine,
 
 #### Wireframes
 
-[WireFrames] (https://github.com/JackTubby/ShoeShine/blob/master/assets/docs/ShoeShine%20Wireframe.pdf)
+[WireFrames](https://github.com/JackTubby/ShoeShine/blob/master/assets/docs/ShoeShine%20Wireframe.pdf)
 
 ## Features
 
