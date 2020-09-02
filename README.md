@@ -90,6 +90,8 @@ A future feature i would like to implement would be some videos, showing the cle
 
 #### Validator Test
 
+After putting my code through the validator i got a list of errors, (list of errors and fixes below) after going through the errors and fixing them i placed my code back through the validator. The validator returned with "Document checking completed. No errors or warnings to show."
+
 - I used the [W3C](https://validator.w3.org/) for html validation.
 - I used [W3C](https://jigsaw.w3.org/css-validator/) for css validation.
 
