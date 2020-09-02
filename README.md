@@ -95,7 +95,7 @@ After putting my code through the validator i got a list of errors, (list of err
 - I used the [W3C](https://validator.w3.org/) for html validation.
 - I used [W3C](https://jigsaw.w3.org/css-validator/) for css validation.
 
-#### Index.html
+**#### Index.html**
 
 **2 errors** - 2 unclosed div's
 
