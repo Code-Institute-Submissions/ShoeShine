@@ -59,8 +59,8 @@ A future feature i would like to implement would be some videos, showing the cle
 
 ## Technologies Used
 
-- HTML 
-- CSS
+- HTML5 
+- CSS3
 - Frameworks
   - The project used Bootstrap for responsive design.
 - FontAwesome
@@ -71,11 +71,20 @@ A future feature i would like to implement would be some videos, showing the cle
 
 ## Testing
 
-- Testing the "Contact Us" page
-   1. Clicked on the "Contact Us" page
-   2. Clicked on the submit button with an empty form, to see that the required fields appears
+- Testing the "Contact Us" page.
+   1. Clicked on the "Contact Us" page.
+   2. Clicked on the submit button with an empty form, to see that the required fields appears.
    3. Entered an invalid email to check the relevant error message appears.
    4. Entered all inputs to check the form submits successfully.
+
+- Testing the gallery "get in touch" button.
+    1. Clicked on the "Gallery" page.
+    2. Clicked the "get in touch" button.
+    3. Checked it took me to the contact page.
+
+- Testing footer social links
+  1. Clicked on all social links (facebook, twitter, instagram) on each page of the website.
+  2. Made sure they opened the correct website in a new tab.
 
 
 #### Validator Test
