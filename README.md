@@ -14,13 +14,13 @@ The projects aim is to give the user all the information needed about ShoeShine,
 
 ### Owner Stories
 
-- As a site owner, i want users to be able to see how we receive, clean and deliver the shoes. So they understand how to buisness works.
+- As a site owner, i want users to be able to see how we receive, clean and deliver the shoes. So they understand how to business works.
 - As a site owner, i want users to be able to know how the company was created and where we started, to build a relationship with the consumer.
 - As a site owner i want the different packages to be easily accessible, so they can compare.
 
 ### User Stories
 
-- As a user, i want to know the origins of the company, to understand there background.
+- As a user, i want to know the origins of the company, to understand their background.
 - As a user, i want to be able to see the different packages, so i can compare.
 - As a user, i want to know what my shoes are cleaned with, so i know they are not harmful.
 - As a user, i want to find out the opening hours.
@@ -52,7 +52,7 @@ My wireframe includes a desktop and mobile version. I did not choose to include 
 - Designed with HTML5, CSS3 and Bootstrap.
 - Packages Section - allows users to compare packages to decide what package is best for them.
 - Testimonials Section - allows users to go to the testimonial section directly on a different page, which will let users see previous users experience.
-- Contact Form - allows users to put there information about them and their shoes, to understand what they need from the service.
+- Contact Form - allows users to put their information about them and their shoes, to understand what they need from the service.
 
 ### Features Left to Implement
 
@@ -142,7 +142,7 @@ This site was deployed on GitHub Pages the steps i took to do this was:
 
 * The photos used in the Gallery were obtained from two sites: https://en-gb.facebook.com/pg/myshoemo/photos/?tab=album&album_id=912590665539042&ref=page_internal and https://www.pexels.com/
 
-### Acknowledgements 
+### Acknowledgments
 
 - Bootstrap - I used bootstrap for its responsive features and showing how the code works with demos, Which helped with the development process.
 - Slack - I used Slack for peer review of my site and any minor bug fixes.
