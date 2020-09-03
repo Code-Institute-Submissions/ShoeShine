@@ -1,7 +1,9 @@
+/*------Google Fonts------*/
+
 @import url('https://fonts.googleapis.com/css2?family=Anton&family=Lato:wght@300;400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Pacifico&display=swap');
 
-
+/*------Start Of Global Styling------*/
 * {
     margin: 0;
     padding: 0;
@@ -30,9 +32,9 @@ body {
     font-size: 40px;
     padding: 10px;
 }
+/*------End Of Global Syling
 
-/*------NAV-----*/
-
+/*------Start Of Nav Styling-----*/
 nav {
     background-color: #EBECF1;
 }
@@ -68,9 +70,10 @@ nav {
     margin-right: 10px;
     border: 1px;
 }
-/*------Index.html------*/
-/*------Top Section------*/
+/*------End Of Nav Styling*/
 
+/*------Start Of index.html Styling------*/
+/*------Start Of Top Images / Words------*/
 .top_wrapper {
     background-color: #1F4068;
 }
@@ -91,9 +94,8 @@ nav {
     text-align: center;
     margin: 20px 0px;
 }
-
-/*------About Section------*/
-
+/*------End Of Top Images / Words------*/
+/*------Start Of Mission And About------*/
 .about_wrapper {
     margin-top: 50px;
 }
@@ -114,8 +116,8 @@ nav {
     font-weight: 600;
     font-size: 20px;
 }
-
-/*-----Packages Section-----*/
+/*------End Of Mission And About------*/
+/*------Start Of Compare Packages------*/
 .packages_container {
     margin-top: 40px;
 }
@@ -135,9 +137,8 @@ nav {
     font-size: 25px;
     font-family: 'Lato', sans-serif;
 }
-
-/*------Testimonals Section------*/
-
+/*------End Of Compare Packages------*/
+/*------Start Of Testimonals------*/
 .testimonals_wrapper {
     margin-top: 50px;
 }
@@ -158,9 +159,10 @@ nav {
     font-size: 25px;
     color: #1F4068;
 }
+/*------End Of Testimonals------*/
+/*------End Of index.html Styling-----*/
 
-/*------faq.html------*/
-
+/*------Start Of faq.html Styling------*/
 .faq_header {
     font-family: 'Krona One', sans-serif;
     color: #206A5D;
@@ -178,9 +180,9 @@ nav {
 .faq_wrapper {
     margin-bottom: 40px;
 }
+/*------End Of faq.html Styling------*/
 
-/*------gallery.html------*/
-
+/*------Start Of gallery.html Styling------*/
 #gallery_contact_link_margin {
     margin: 20px 0;
 }
@@ -217,10 +219,9 @@ nav {
 .gallery_button:hover {
     color: #1F4068;
 }
+/*------End Of gallery.html Styling------*/
 
-/*------contact.html------*/
-
-
+/*------Start Of contact.html Styling------*/
 .contact_header {
     font-family: 'Krona One', sans-serif;
     color: #206A5D;
@@ -257,8 +258,9 @@ nav {
 .contact_bottom_wrapper {
     margin-bottom: 20px;
 }
+/*------End Of contact.html Styling------*/
 
-/*------Footer------*/
+/*------Start Of Footer Styling------*/
 
 .footer_wrapper {
     background-color: #1F4068;
@@ -280,3 +282,4 @@ nav {
 .social_icon:hover {
     color: #206A5D;
 }
+/*------End Of Footer Styling------*/
