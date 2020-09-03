@@ -141,3 +141,9 @@ This site was deployed on GitHub Pages the steps i took to do this was:
 ### Media
 
 * The photos used in the Gallery were obtained from two sites: https://en-gb.facebook.com/pg/myshoemo/photos/?tab=album&album_id=912590665539042&ref=page_internal and https://www.pexels.com/
+
+### Acknowledgements 
+
+- Bootstrap - I used bootstrap for its responsive features and showing how the code works with demos, Which helped with the development process.
+- Slack - I used Slack for peer review of my site and any minor bug fixes.
+- Mentor - My mentor helped me decide where to focus my time and make improvements, which was very beneficial for my site development. 
