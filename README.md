@@ -54,7 +54,7 @@ My wireframe includes a desktop and mobile version. I did not choose to include 
 - Designed with HTML5, CSS3 and Bootstrap.
 - Packages Section - allows users to compare packages to decide what package is best for them.
 - Testimonials Section - allows users to read the testimonials, which will let users see previous users experiences.
-- Contact Form - allows users to put their information about them and their shoes, to understand what they need from the service.
+- Contact Form - allows users to put their information about them and their shoes and choose the right package for them, so the company knows what the user is after.
 
 ### Features Left to Implement
 
