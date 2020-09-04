@@ -32,8 +32,7 @@ The projects aim is to give the user all the information needed about Shoe Shine
 
 #### colours
 
-- I have decided to use two main colours throughout the website, (#1F4068, #206A5D). I have chosen these colours because they match together well, it is easy on the eye, and shows the typography well. For the background I have chosen a grey, (#EBECF1) colour which makes the main two colours stand out well.
-- The text on the website will be the two main colours, (#1F4068, #206A5D) when on the grey, (#EBECF1) background. When the background is the two main colours, (#1F4068, #206A5D) the text will be white, as it stands out and is eye catching.
+- I have decided to use two main colours throughout the website, (#1F4068, #206A5D). I have chosen these colours because they complement each other well, it is easy on the eye, and shows the typography well. For the background I have chosen grey, which is neautrual (#EBECF1) therefore enhancing the two main colours. 
 
 
 #### Typography 
