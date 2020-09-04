@@ -83,7 +83,7 @@ A future feature I would like to implement would be some videos, showing the cle
 - Testing the gallery "get in touch" link.
     1. Clicked on the "Gallery" page.
     2. Clicked the "get in touch" link.
-    3. Checked it took me to the contact page.
+    3. Checked that it took me to the contact page.
 
 - Testing footer social links
   1. Clicked on all social links (facebook, twitter, instagram) on each page of the website.
