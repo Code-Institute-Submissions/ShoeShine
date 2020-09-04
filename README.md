@@ -17,7 +17,7 @@ The projects aim is to give the user all the information needed about Shoe Shine
 ### Owner Stories
 
 - As a site owner, I want users to be able to see how we receive, clean and deliver the shoes. So they understand how the business works.
-- As a site owner, I want users to be able to know how the company was created and where we started, to build a relationship with the consumer.
+- As a site owner, I want users to be able to know how the company was created and where we started to build a relationship with the consumer.
 - As a site owner, I want the different packages to be easily accessible, so they can compare.
 
 ### User Stories
