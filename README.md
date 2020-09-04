@@ -105,7 +105,7 @@ After putting my code through the validator I got a list of errors, (list of err
 
 #### gallery.html 
 
-- 2 errors - a element must not appear as a descendant of the button element / Named character reference was not terminated by a semicolon. (Or & should have been escaped as & amp;.)
+- 2 errors - A element must not appear as a descendant of the button element / Named character reference was not terminated by a semicolon. (Or & should have been escaped as & amp;.)
 
 - fix - Removed the button and just used the link element | Added a semi-colon after &copy 
 
