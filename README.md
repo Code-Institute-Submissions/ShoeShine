@@ -1,5 +1,7 @@
 # ShoeShine
 
+![index screenshot](/assets/images/index-screenshot.png)
+
 This website is "Shoe Shine". Shoe Shine is for users who need their shoes cleaned. They are able to send their favourite and well-loved shoes in for a basic or premium clean, to show this there is a comparison of what the different packages include. Also incorporated in the site is a gallery, frequently asked questions and contact page. 
  
 ## UX
