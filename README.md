@@ -131,11 +131,11 @@ After putting my code through the validator i got a list of errors, (list of err
 
 This site was deployed on GitHub Pages the steps i took to do this was:
 
-- The code was written on VS Code.
+- The code was written in VS Code.
 - I pushed the code to my GitHub repository.
-- In the repository settings, i scrolled down to the GitHub Pages.
-- Under 'source' i selected the 'master branch'. 
-- It the published the project to GitHub pages, providing a url.
+- In the repository settings, I scrolled down to the GitHub Pages.
+- Under 'source', I selected the 'master branch'. 
+- I published the project to GitHub pages, which provided me with a url.
 - The deployed website and development site are the same.
 
 ## Credits
