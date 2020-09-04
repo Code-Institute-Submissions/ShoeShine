@@ -23,8 +23,8 @@ The projects aim is to give the user all the information needed about Shoe Shine
 ### User Stories
 
 - As a user, I want to know the origins of the company, to understand their background.
-- As a user, I want to be able to see the different packages, so i can compare.
-- As a user, I want to know what my shoes are cleaned with, so i know they are not harmful.
+- As a user, I want to be able to see the different packages, so I can compare.
+- As a user, I want to know what my shoes are cleaned with, so I know they are not harmful.
 - As a user, I want to find out the opening hours.
 - As a user, I want to find out the location.
 
@@ -32,13 +32,13 @@ The projects aim is to give the user all the information needed about Shoe Shine
 
 #### colours
 
-- I have decided to use two main colours throughout the website (#1F4068, #206A5D). I have chosen these colours because they match together well, it is easy on the eye, and shows the typography well. For the background i have chosen a grey (#EBECF1) color which makes the main two colours stand out well.
+- I have decided to use two main colours throughout the website (#1F4068, #206A5D). I have chosen these colours because they match together well, it is easy on the eye, and shows the typography well. For the background I have chosen a grey (#EBECF1) color which makes the main two colours stand out well.
 - The text on the website is the two main colours (#1F4068, #206A5D) when on the grey (#EBECF1) background. Text on the two main colours background is going to be white, as it stands out and is catching on the eye.
 
 
 #### Typography 
-- I have used 'Lato'for the main text throughout the website and also the navbar, i have gone with this font as it is clean, sleek and easy to read.
-- I have used 'Krona One' For the main Logo, and some headings including the faq questions, i have chosen this font as it stands out well and catches the users eye.
+- I have used 'Lato'for the main text throughout the website and also the navbar, I have gone with this font as it is clean, sleek and easy to read.
+- I have used 'Krona One' For the main Logo, and some headings including the faq questions, I have chosen this font as it stands out well and catches the users eye.
 
 
 ### Wireframes
@@ -58,7 +58,7 @@ My wireframe includes a desktop and mobile version. I did not choose to include 
 
 ### Features Left to Implement
 
-A future feature i would like to implement would be some videos, showing the cleaning process. 
+A future feature I would like to implement would be some videos, showing the cleaning process. 
 
 ## Technologies Used
 
@@ -92,7 +92,7 @@ A future feature i would like to implement would be some videos, showing the cle
 
 ### Validator Tests
 
-After putting my code through the validator i got a list of errors, (list of errors and fixes below) after going through the errors and fixing them i placed my code back through the validator. The validator returned with "Document checking completed. No errors or warnings to show." The reason i used the W3C validator is for quality assurance.
+After putting my code through the validator I got a list of errors, (list of errors and fixes below) after going through the errors and fixing them I placed my code back through the validator. The validator returned with "Document checking completed. No errors or warnings to show." The reason I used the W3C validator is for quality assurance.
 
 - I used the [W3C](https://validator.w3.org/) for html validation.
 - I used [W3C](https://jigsaw.w3.org/css-validator/) for css validation.
@@ -101,7 +101,7 @@ After putting my code through the validator i got a list of errors, (list of err
 
 - 2 errors - 2 unclosed div's
 
-- fix - To correct this i closed the div's and put it back through the validator which then came back with no errors.
+- fix - To correct this I closed the div's and put it back through the validator which then came back with no errors.
 
 #### gallery.html 
 
@@ -119,7 +119,7 @@ After putting my code through the validator i got a list of errors, (list of err
 
 - 5 errors -  End tag nav seen, but there were open elements | Unclosed element div | Named character reference was not terminated by a semicolon. (Or & should have been escaped as & amp;.) | x2 The aria-describedby attribute must point to an element in the same document
 
-- fix - To fix error 1/2 i had to close the div element | Added a semi-colon after &copy | Changed aria-describedby to aria-label
+- fix - To fix error 1/2 I had to close the div element | Added a semi-colon after &copy | Changed aria-describedby to aria-label
 
 #### style.css
 
@@ -129,7 +129,7 @@ After putting my code through the validator i got a list of errors, (list of err
 
 ## Deployment
 
-This site was deployed on GitHub Pages the steps i took to do this was:
+This site was deployed on GitHub Pages the steps I took to do this was:
 
 - The code was written in VS Code.
 - I pushed the code to my GitHub repository.
