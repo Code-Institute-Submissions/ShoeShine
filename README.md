@@ -129,7 +129,7 @@ After putting my code through the validator I got a list of errors, (list of err
 
 ## Deployment
 
-This site was deployed on GitHub Pages the steps I took to do this was:
+This site was deployed on GitHub Pages, the steps I took to do this was:
 
 - The code was written in VS Code.
 - I pushed the code to my GitHub repository.
