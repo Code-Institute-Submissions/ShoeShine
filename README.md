@@ -30,10 +30,10 @@ The projects aim is to give the user all the information needed about ShoeShine,
 
 ### Surface 
 
-#### colors
+#### colours
 
-- I have decided to use two main colors throughout the website (#1F4068, #206A5D). I have chosen these colors because they match together well, it is easy on the eye, and shows the typography well. For the background i have chosen a grey (#EBECF1) color which makes the main two colors stand out well.
-- The text on the website is the two main colors (#1F4068, #206A5D) when on the grey (#EBECF1) background. Text on the two main colors background is going to be white, as it stands out and is catching on the eye.
+- I have decided to use two main colours throughout the website (#1F4068, #206A5D). I have chosen these colours because they match together well, it is easy on the eye, and shows the typography well. For the background i have chosen a grey (#EBECF1) color which makes the main two colours stand out well.
+- The text on the website is the two main colours (#1F4068, #206A5D) when on the grey (#EBECF1) background. Text on the two main colours background is going to be white, as it stands out and is catching on the eye.
 
 
 #### Typography 
