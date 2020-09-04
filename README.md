@@ -86,7 +86,7 @@ A future feature I would like to implement would be some videos, showing the cle
     3. Checked that it took me to the contact page.
 
 - Testing footer social links
-  1. Clicked on all social links (facebook, twitter, instagram) on each page of the website.
+  1. Clicked on all social links (Facebook, Twitter, Instagram) on each page of the website.
   2. Made sure they opened the correct website in a new tab.
 
 
