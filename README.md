@@ -145,6 +145,6 @@ This site was deployed on GitHub Pages, the steps I took to do this was:
 
 ### Acknowledgments
 
-- Bootstrap - I used bootstrap for its responsive features and showing how the code works with demos, Which helped with the development process.
+- Bootstrap - I used bootstrap for it's responsive features and showing how the code works with demos, which helped with the development process.
 - Slack - I used Slack for peer review of my site and any minor bug fixes.
 - Mentor - My mentor helped me decide where to focus my time and make improvements, which was very beneficial for my site development. 
