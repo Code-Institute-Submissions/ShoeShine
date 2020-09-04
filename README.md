@@ -80,9 +80,9 @@ A future feature I would like to implement would be some videos, showing the cle
    3. Entered an invalid email to check the relevant error message appears.
    4. Entered all inputs to check the form submits successfully.
 
-- Testing the gallery "get in touch" button.
+- Testing the gallery "get in touch" link.
     1. Clicked on the "Gallery" page.
-    2. Clicked the "get in touch" button.
+    2. Clicked the "get in touch" link.
     3. Checked it took me to the contact page.
 
 - Testing footer social links
