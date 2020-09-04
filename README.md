@@ -1,4 +1,4 @@
-# [ShoeShine](https://jacktubby.github.io/ShoeShine/)
+# [Shoe Shine](https://jacktubby.github.io/ShoeShine/)
 
 ![index screenshot](/assets/images/index-screenshot.png)
 
