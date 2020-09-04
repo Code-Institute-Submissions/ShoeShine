@@ -38,7 +38,7 @@ The projects aim is to give the user all the information needed about Shoe Shine
 
 #### Typography 
 - I have used 'Lato' for the main text throughout the website and also the navbar, I have gone with this font as it is clean, sleek and easy to read.
-- I have used 'Krona One' for the main logo, and some headings including the faq questions, I have chosen this font as it stands out well and catches the users eye.
+- I have used 'Krona One' for the main logo, and some headings including the 'faq' page questions. I have chosen this font as it stands out well and catches the users eye.
 
 
 ### Wireframes
