@@ -10,7 +10,7 @@ The projects aim is to give the user all the information needed about Shoe Shine
 
 ### Project Goals 
 
-- Tell the user all useful information about the company, so they understand where ShoeShine came from.
+- Tell the user all useful information about the company, so they understand where Shoe Shine came from.
 - Show the user examples (before and after), so they can see the results of the cleaning process.
 - Get the user to fill out the contact form.
 
