@@ -16,17 +16,17 @@ The projects aim is to give the user all the information needed about ShoeShine,
 
 ### Owner Stories
 
-- As a site owner, i want users to be able to see how we receive, clean and deliver the shoes. So they understand how to business works.
-- As a site owner, i want users to be able to know how the company was created and where we started, to build a relationship with the consumer.
-- As a site owner i want the different packages to be easily accessible, so they can compare.
+- As a site owner, I want users to be able to see how we receive, clean and deliver the shoes. So they understand how to business works.
+- As a site owner, I want users to be able to know how the company was created and where we started, to build a relationship with the consumer.
+- As a site owner I want the different packages to be easily accessible, so they can compare.
 
 ### User Stories
 
-- As a user, i want to know the origins of the company, to understand their background.
-- As a user, i want to be able to see the different packages, so i can compare.
-- As a user, i want to know what my shoes are cleaned with, so i know they are not harmful.
-- As a user, i want to find out the opening hours.
-- As a user, i want to find out the location.
+- As a user, I want to know the origins of the company, to understand their background.
+- As a user, I want to be able to see the different packages, so i can compare.
+- As a user, I want to know what my shoes are cleaned with, so i know they are not harmful.
+- As a user, I want to find out the opening hours.
+- As a user, I want to find out the location.
 
 ### Surface 
 
