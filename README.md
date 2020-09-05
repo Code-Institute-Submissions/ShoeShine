@@ -93,6 +93,8 @@ A future feature I would like to implement would be some videos, showing the cle
 
 After putting my code through the validator I got a list of errors, (list of errors and fixes below) after going through the errors and fixing them I placed my code back through the validator. The validator returned with "Document checking completed. No errors or warnings to show." The reason I used the W3C validator is for quality assurance.
 
+![validator screenshot](/assets/images/validator-screenshot.png)
+
 - I used the [W3C](https://validator.w3.org/) for html validation.
 - I used [W3C](https://jigsaw.w3.org/css-validator/) for css validation.
 
