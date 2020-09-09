@@ -159,25 +159,6 @@ nav {
 }
 /*------End Of Testimonals------*/
 /*------End Of index.html Styling-----*/
-/*------Start Of faq.html Styling------*/
-.faq_header {
-    font-family: 'Krona One', sans-serif;
-    color: #206A5D;
-    font-size: 25px;
-    letter-spacing: 3px;
-}
-
-.faq_text {
-    font-family: 'Lato', sans-serif;
-    font-size: 20px;
-    color: #1F4068;
-    font-weight: 600;
-}
-
-.faq_wrapper {
-    margin-bottom: 40px;
-}
-/*------End Of faq.html Styling------*/
 /*------Start Of gallery.html Styling------*/
 #gallery_contact_link_margin {
     margin: 20px 0;
@@ -216,6 +197,25 @@ nav {
     color: #1F4068;
 }
 /*------End Of gallery.html Styling------*/
+/*------Start Of faq.html Styling------*/
+.faq_header {
+    font-family: 'Krona One', sans-serif;
+    color: #206A5D;
+    font-size: 25px;
+    letter-spacing: 3px;
+}
+
+.faq_text {
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    color: #1F4068;
+    font-weight: 600;
+}
+
+.faq_wrapper {
+    margin-bottom: 40px;
+}
+/*------End Of faq.html Styling------*/
 /*------Start Of contact.html Styling------*/
 .contact_header {
     font-family: 'Krona One', sans-serif;
