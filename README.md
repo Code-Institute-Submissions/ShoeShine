@@ -27,6 +27,7 @@ The projects aim is to give the user all the information needed about Shoe Shine
 - As a user, I want to know what my shoes are cleaned with, so I know they are not harmful.
 - As a user, I want to find out the opening hours.
 - As a user, I want to find out the location.
+- As a user, I want to be able to get in touch, through a contact form.
 
 ### Surface 
 
